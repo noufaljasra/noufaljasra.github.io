@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name:  Noufal
+name: Noufal
 
 # Short bio or description (displayed in the header)
 description: World of Data science
@@ -19,7 +19,7 @@ avatar: https://avatars.githubusercontent.com/u/117347801?v=4
 footer-links:
   dribbble:
   email: noufaljasra77@gmail.com
-  facebook:noufaljasra77
+  facebook: noufaljasra77
   flickr:
   github: barryclark/jekyll-now
   instagram:
