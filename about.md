@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello I am Noufal Jasra❤️❤️❤️!!!
+I work on Data Science Projects
 
-### More Information
+### contact  me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
 
 [email@domain.com](mailto:email@domain.com)
